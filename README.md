@@ -94,6 +94,9 @@ Exploratory data analysis and Random Forest classification using Marvel characte
 
 ## 🔗 Connect With Me
 
-- GitHub: [github.com/dalia555](https://github.com/dalia555)
 - LinkedIn: https://www.linkedin.com/in/dalia-adel-3491913b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- portfolio: https://daliaadel.framer.website/
+- upwork: https://www.upwork.com/freelancers/~0183cb5b349a2b1dec?mp_source=share
+- khamsat: https://khamsat.com/user/dalia05adel
+- freelancer: https://www.freelancer.com/u/daliaa09?frm=daliaa09&sb=t
 
